@@ -50,3 +50,6 @@ Data Preparation Steps
 
 This dashboard is a powerful tool for support teams to stay on top of their goals, understand their performance trends, and respond proactively to service challenges.
 
+![Technical Support Performance Report](https://github.com/user-attachments/assets/55bc49b7-4504-4116-8a12-3f608b429fe1)
+
+
