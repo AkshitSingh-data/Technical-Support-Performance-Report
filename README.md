@@ -1,6 +1,6 @@
 # Technical-Support-Performance-Report
 
-I'm excited to share a Power BI project that I recently completed: Technical Support Performance Dashboard! This dashboard is designed to provide clear, actionable insights into various technical support metrics, enhancing data-driven decision-making. Below is an overview of the project:
+I'm excited to share a Power BI project that I recently completed: Technical Support Performance Dashboard! This dashboard is designed to provide clear, actionable insights into various technical support metrics, enhancing data-driven decision-making. Below is an overview of the project: Scroll below for the dashboard
 
 Data Preparation Steps
 
